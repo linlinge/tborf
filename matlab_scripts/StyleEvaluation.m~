@@ -1,0 +1,7 @@
+function OutlierGrade(path)
+    str_cmd='../build/MGS -i + input_path +" -o 1.csv -M OGEM"
+    system(str_cmd)
+    file=pd.read_csv("1.csv")
+    og=np.asarray(file)
+    print("Outlier Grade:   "+str(og[0,0]))
+end
