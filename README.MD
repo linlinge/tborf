@@ -1,4 +1,4 @@
-# SGODF: Style-guided Outlier Detection Framework
+# TBODF: Type-Based Outlier Removal Framework for Point Clouds
 This is the source code for the paper "SGODF: A Flexible Style-guided Outlier Detection Framework for Point Cloud". The file structure description of this project is presented in the following.  
 ```
 |--- main.cpp: the entry of the main function.
