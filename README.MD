@@ -5,6 +5,7 @@ This is the source code for the paper "SGODF: A Flexible Style-guided Outlier De
 |--- glib: some basic functions write by myself.
 |--- StyleEvaluation.h,.cpp: code for style evaluation.
 |--- HybridMethods.h,.cpp : realization for different modules.
+|--- python_scripts: this fold contains the point cloud type determination code
 ```
 # Our Framework  
 ![](./figure/StyleClassification.png)
