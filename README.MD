@@ -6,7 +6,7 @@ This is the source code for the paper "SGODF: A Flexible Style-guided Outlier De
 |--- StyleEvaluation.h,.cpp: code for style evaluation.
 |--- HybridMethods.h,.cpp : realization for different modules.
 ```
-# Our Style-guided Framework  
+# Our Framework  
 ![](./figure/StyleClassification.png)
 # How to use
 ## Prerequisities   
@@ -40,6 +40,7 @@ This is the source code for the paper "SGODF: A Flexible Style-guided Outlier De
 # cmake ..
 # make -j12
 ```
+
 # Experiments
 You can find the comparison methods PMR [1], LoOP [2] and PointCleanNet [3] in the reference section.
 # Reference  
